@@ -1,5 +1,7 @@
  ## Recognize Text with Python
  
+ #### You need to install two tools: pytesseract and Pillow
+ 
  ### Optical Character Recognition (OCR)
  
  Optical Character Recognition is the electronic or mechanical conversion of images of 
@@ -21,6 +23,8 @@ identified as the background.
 References:
 
 https://pypi.org/project/pytesseract/
+
 https://blog.ged.taugor.com.br/ocr-reconhecimento-optico-de-caracteres-2/
+
 https://nanonets.com/blog/ocr-with-tesseract/
 
