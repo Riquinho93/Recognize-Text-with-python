@@ -17,7 +17,14 @@ After all pages are copied, the OCR software converts the document to a two-colo
 The scanned image or bitmap is analyzed for light and dark areas, where dark areas are identified as characters that need to be recognized and light areas are
 identified as the background.
 
-
+### Applications
+- Passport recognition in Airports
+- Automation of Data Entry
+- License plates recognition
+- Extracting business card information into a contact list
+- Converting handwritten documents into electronic images
+- Creating Searchable PDFs
+- Create audible files (text to audio
 
 
 References:
@@ -28,3 +35,4 @@ https://blog.ged.taugor.com.br/ocr-reconhecimento-optico-de-caracteres-2/
 
 https://nanonets.com/blog/ocr-with-tesseract/
 
+https://www.analyticsvidhya.com/blog/2021/06/optical-character-recognitionocr-with-tesseract-opencv-and-python/
